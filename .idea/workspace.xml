@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86ba186b-3e4b-45e8-80b3-31ca630f8736" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mwHP9rwVPpEkCV7fMRMGJ48jDc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Armstrong.executor": "Run",
+    "Application.ArrayStack.executor": "Run",
+    "Application.ArraysSumWithTarget.executor": "Debug",
+    "Application.BinarySearch.executor": "Run",
+    "Application.BlockingQueueExample.executor": "Run",
+    "Application.CSVProblem.executor": "Run",
+    "Application.CaseCheck.executor": "Run",
+    "Application.CheckStringsAreAnagrams.executor": "Run",
+    "Application.Checksum.executor": "Debug",
+    "Application.CommonElementsBetweenTwoSets.executor": "Run",
+    "Application.ConcateTwoStreams.executor": "Run",
+    "Application.ConvertObjectIntoUppercase.executor": "Run",
+    "Application.CountAndSayWithNumber.executor": "Debug",
+    "Application.CountDigit.executor": "Run",
+    "Application.CountFailedStudents.executor": "Run",
+    "Application.CountFreqOfCharInList.executor": "Run",
+    "Application.CountNumberOfBuildingsFacingSunset.executor": "Run",
+    "Application.CountNums.executor": "Run",
+    "Application.CountOccOfGivenCharInAString.executor": "Run",
+    "Application.CountWordsInASentence.executor": "Run",
+    "Application.CurrentDateTimeInJava8.executor": "Run",
+    "Application.EvenDigits.executor": "Debug",
+    "Application.ExtractTheletterFromGrid.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.FindADuplicateInAArray.executor": "Run",
+    "Application.FindAllPalindromeInListOfStrings.executor": "Run",
+    "Application.FindAllTheEvenNumbersInAList.executor": "Run",
+    "Application.FindAllTheNumbersStartingWith1.executor": "Run",
+    "Application.FindDuplicateInAList.executor": "Run",
+    "Application.FindMissingNumber.executor": "Run",
+    "Application.FindProductOfAllElements.executor": "Run",
+    "Application.FindTargetInArray.executor": "Run",
+    "Application.FindTempCloserToZero.executor": "Debug",
+    "Application.FindTheAgeOfAPerson.executor": "Run",
+    "Application.FindTheMaxInAList.executor": "Run",
+    "Application.First10OddNumbers.executor": "Run",
+    "Application.FirstNonRepeatedCharacterInAString.executor": "Run",
+    "Application.FirstRepeatedCharacterInAString.executor": "Run",
+    "Application.FizzBuzzProb.executor": "Run",
+    "Application.FloorOfANumber.executor": "Run",
+    "Application.IntegerArraySumAndAverage.executor": "Run",
+    "Application.IterateStreamWithIndices.executor": "Run",
+    "Application.IterateStreamWithIndics.executor": "Run",
+    "Application.JoinStringWithPrefSuff.executor": "Run",
+    "Application.LastElementOfList.executor": "Run",
+    "Application.Main.executor": "Debug",
+    "Application.MaxAndMinFromList.executor": "Run",
+    "Application.MaxArray.executor": "Run",
+    "Application.MaxWealth.executor": "Run",
+    "Application.MergeTwoUnsortedArrays.executor": "Run",
+    "Application.MergingOfNSortedList.executor": "Run",
+    "Application.Min3Max3.executor": "Run",
+    "Application.NthLargest.executor": "Run",
+    "Application.PartitionSetOfNumbers.executor": "Run",
+    "Application.PassByValue.executor": "Run",
+    "Application.PassByValueForObjects.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.RemoveZeros.executor": "Run",
+    "Application.Reverse (1).executor": "Run",
+    "Application.Reverse.executor": "Run",
+    "Application.ReverseAString.executor": "Run",
+    "Application.ReverseList.executor": "Run",
+    "Application.ReverseListOfIntegers.executor": "Run",
+    "Application.RotateListKTimes.executor": "Run",
+    "Application.SearchIn2DArray.executor": "Run",
+    "Application.SecondLargestNumberInList.executor": "Run",
+    "Application.SimpleBlockingQueueCall.executor": "Debug",
+    "Application.SliceOfStream.executor": "Debug",
+    "Application.SortTheList.executor": "Run",
+    "Application.SortTheListOfStringsIncreasingOrderOfLength.executor": "Run",
+    "Application.SortingListInJavaFirstByAgeAndThenByID.executor": "Run",
+    "Application.SplitListIntoSublist.executor": "Run",
+    "Application.SquareRootOfNumber.executor": "Run",
+    "Application.SumOfDigits.executor": "Run",
+    "Application.SwapArray.executor": "Run",
+    "Application.SymmetricDifferenceOfTwoSets.executor": "Run",
+    "JUnit.CountAndSayTest.executor": "Run",
+    "Java Scratch.BlockingQueueExample.executor": "Run",
+    "Java Scratch.RemoveZeros.executor": "Debug",
+    "Java Scratch.Scratch.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ankitdangayach/Documents/development/Projects/TestProject",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Test/src/main/java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Test/src/main/java/Thread" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PrimeNumber">
+    <configuration name="CountFreqOfCharInList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.CountFreqOfCharInList" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindAllTheEvenNumbersInAList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.FindAllTheEvenNumbersInAList" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JoinStringWithPrefSuff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.JoinStringWithPrefSuff" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NthLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.NthLargest" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeNumber" />
+      <module name="Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.NthLargest" />
+        <item itemvalue="Application.JoinStringWithPrefSuff" />
+        <item itemvalue="Application.FindAllTheEvenNumbersInAList" />
+        <item itemvalue="Application.CountFreqOfCharInList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86ba186b-3e4b-45e8-80b3-31ca630f8736" name="Changes" comment="" />
+      <created>1727980691635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727980691635</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/src/main/java/ArraysSumWithTarget.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/src/main/java/Thread/SimpleBlockingQueue.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/src/main/java/Thread/SimpleBlockingQueue.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/src/main/java/Thread/SimpleBlockingQueue.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/src/main/java/Thread/SimpleBlockingQueue.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/src/main/java/Java8/RotateListKTimes.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/src/main/java/Java8/NthLargest.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/src/main/java/Java8/SliceOfStream.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/src/main/java/Java17/CountFailedStudents.java</url>
+          <line>23</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/src/main/java/Questions/CountNumberOfBuildingsFacingSunset.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/src/main/java/CountAndSayWithNumber.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/src/main/java/CountAndSayWithNumber.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/src/main/java/Java8/SplitListIntoSublist.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/src/main/java/Thread/SimpleBlockingQueue.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/src/main/java/Thread/SimpleBlockingQueue.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/src/main/java/FindTempCloserToZero.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/src/main/java/FindMissingNumber.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/src/main/java/Java8/FindAllPalindromeInListOfStrings.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
